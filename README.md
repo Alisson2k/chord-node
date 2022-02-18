@@ -1,4 +1,4 @@
-# Hash table - TCP & gRPC #
+# Chord Node #
 
 Para rodar utilize `python3+`, primeiro instale as dependências com
 
